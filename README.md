@@ -4,11 +4,12 @@
 This repository contains my solutions for **Experiment 4: Data Wrangling and Data Visualization**.
 
 **Table of Contents**
-PA4:
 
-1:
+PA4: https://github.com/supremoace/BALINDONG_2ECEB_ECE2112_PA4?tab=readme-ov-file#pa4---ece-board-exam-problem
 
-2:
+1: https://github.com/supremoace/BALINDONG_2ECEB_ECE2112_PA4?tab=readme-ov-file#data-frame-creation
+
+2: https://github.com/supremoace/BALINDONG_2ECEB_ECE2112_PA4?tab=readme-ov-file#data-frame-creation-1
 
 ## PA4 - ECE BOARD EXAM PROBLEM
 
